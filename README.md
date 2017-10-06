@@ -1,0 +1,2 @@
+# minafds
+Minimização de AFDs
